@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/6tjxmBzU"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gclich/GHS-STE-GHUBX/refs/heads/main/obfuscated.lua-ghacksste.txt"))()
